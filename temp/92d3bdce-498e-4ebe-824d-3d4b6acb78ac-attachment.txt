@@ -1,0 +1,3 @@
+INFO     root:conftest.py:10 =========setUp==========
+INFO     root:desired_cap.py:28 ===========start app===============
+INFO     root:conftest.py:30 allure generate D:\code\kyb_testProject\temp -o D:\code\kyb_testProject\reports\Report_test_login --clean

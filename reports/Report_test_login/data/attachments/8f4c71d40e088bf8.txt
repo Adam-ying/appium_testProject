@@ -1,0 +1,2 @@
+INFO     root:conftest.py:10 =========setUp==========
+INFO     root:desired_cap.py:28 ===========start app===============

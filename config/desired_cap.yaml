@@ -1,0 +1,9 @@
+platformName: Android
+deviceName: 127.0.0.1:62001
+platformVersion: 7.1.2
+appPackage: com.tal.kaoyan
+automationName: uiautomator2
+appActivity: com.tal.kaoyan.ui.activity.SplashActivity
+noReset: False
+ip: 127.0.0.1
+port: 4723
